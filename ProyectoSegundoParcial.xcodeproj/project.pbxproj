@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3DB23723234D27E800FB322D /* InformacionAuto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB23722234D27E800FB322D /* InformacionAuto.swift */; };
+		3DB23725234D29EB00FB322D /* CeldaInformacionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB23724234D29EB00FB322D /* CeldaInformacionController.swift */; };
 		3DBE777D234BE18300DDEAE7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DBE777C234BE18300DDEAE7 /* AppDelegate.swift */; };
 		3DBE777F234BE18300DDEAE7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DBE777E234BE18300DDEAE7 /* ViewController.swift */; };
 		3DBE7782234BE18300DDEAE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DBE7780234BE18300DDEAE7 /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3DB23722234D27E800FB322D /* InformacionAuto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformacionAuto.swift; sourceTree = "<group>"; };
+		3DB23724234D29EB00FB322D /* CeldaInformacionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CeldaInformacionController.swift; sourceTree = "<group>"; };
 		3DBE7779234BE18300DDEAE7 /* ProyectoSegundoParcial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProyectoSegundoParcial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DBE777C234BE18300DDEAE7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DBE777E234BE18300DDEAE7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +81,8 @@
 		3DBE7770234BE18300DDEAE7 = {
 			isa = PBXGroup;
 			children = (
+				3DB23724234D29EB00FB322D /* CeldaInformacionController.swift */,
+				3DB23722234D27E800FB322D /* InformacionAuto.swift */,
 				3DBE777B234BE18300DDEAE7 /* ProyectoSegundoParcial */,
 				3DBE7790234BE18600DDEAE7 /* ProyectoSegundoParcialTests */,
 				3DBE779B234BE18600DDEAE7 /* ProyectoSegundoParcialUITests */,
@@ -257,6 +263,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DBE777F234BE18300DDEAE7 /* ViewController.swift in Sources */,
+				3DB23723234D27E800FB322D /* InformacionAuto.swift in Sources */,
+				3DB23725234D29EB00FB322D /* CeldaInformacionController.swift in Sources */,
 				3DBE777D234BE18300DDEAE7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
