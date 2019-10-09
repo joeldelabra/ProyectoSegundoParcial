@@ -9,4 +9,5 @@ class CeldaInformacionController : UITableViewCell{
     @IBOutlet weak var lblMarca: UILabel!
     @IBOutlet weak var lblPlaca: UILabel!
     @IBOutlet weak var lblNombreConductor: UILabel!
+    @IBOutlet weak var imgFoto: UIImageView!
 }
